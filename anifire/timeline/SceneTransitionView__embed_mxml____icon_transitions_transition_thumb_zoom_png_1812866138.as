@@ -1,0 +1,14 @@
+package anifire.timeline
+{
+   import mx.core.BitmapAsset;
+   
+   public class SceneTransitionView__embed_mxml____icon_transitions_transition_thumb_zoom_png_1812866138 extends BitmapAsset
+   {
+       
+      
+      public function SceneTransitionView__embed_mxml____icon_transitions_transition_thumb_zoom_png_1812866138()
+      {
+         super();
+      }
+   }
+}
